@@ -3,7 +3,7 @@
 by Taryn V. Stefanski, Figen Yilmaz, Eugene Y. Huang, Martijn F.S. Zwanenburg, Siddharth Singh, Siyu Wang, Lukas J. Splitthoff, and Christian Kraglund Andersen
 
 ## Data availability
-To be made publicly available.
+Associated data is available as a 4TU data repository with DOI: 10.4121/1092cb12-9198-4d43-8500-401c78a5dc15.
 
 ## Related work
 Stefanski, T. V., & Andersen, C. K. (2024). Flux-pulse-assisted readout of a fluxonium qubit. Physical Review Applied, 22(1), 014079.
